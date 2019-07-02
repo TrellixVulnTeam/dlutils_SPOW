@@ -1,3 +1,3 @@
 cd ..
-git subtree push --prefix ml-utils https://github.com/spidy390/ml-utils.git master
+git subtree push --prefix dlutils https://github.com/spidy390/dlutils.git master
 pause

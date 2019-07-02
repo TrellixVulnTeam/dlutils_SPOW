@@ -1,3 +1,3 @@
 cd ..
-git subtree pull --prefix ml-utils https://github.com/spidy390/ml-utils.git master --squash
+git subtree pull --prefix dlutils https://github.com/spidy390/dlutils.git master --squash
 pause

@@ -1,2 +1,1 @@
-cd ..
-git subtree add --prefix ml-utils https://github.com/spidy390/ml-utils.git master --squash
+git subtree add --prefix dlutils https://github.com/spidy390/dlutils.git master --squash
